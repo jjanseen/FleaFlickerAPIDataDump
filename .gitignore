@@ -3,3 +3,7 @@
 ################################################################################
 
 /FleaFlickerAPI/FleaFlickerAPI/bin
+/FleaFlickerAPI/FleaFlickerAPI/obj
+/FleaFlickerAPI/.vs/FleaFlickerAPI/DesignTimeBuild/.dtbcache.v2
+/.vs
+/Publish
